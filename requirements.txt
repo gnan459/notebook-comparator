@@ -5,3 +5,6 @@ google-auth
 google-auth-oauthlib
 google-generativeai
 protobuf<4
+setuptools
+wheel
+packaging
